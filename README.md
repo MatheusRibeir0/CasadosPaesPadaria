@@ -75,14 +75,14 @@
         <div class="row justify-content-center">
             <div class="col-md-3 text-center">
                 <a href="https://github.com/BeatrizBonetto">
-                    <img src="https://github.com/BeatrizBonetto/projeto_html_2023/assets/142846833/05745563-7d3e-47bb-b404-cb051aecb1d9" alt="Beatriz Faccioli Bonetto" class="img-fluid rounded-circle">
+                    <img src="https://github.com/BeatrizBonetto/projeto_html_2023/assets/142846833/05745563-7d3e-47bb-b404-cb051aecb1d9" width = 115 alt="Beatriz Faccioli Bonetto" class="img-fluid rounded-circle">
                     <p>Beatriz Faccioli Bonetto</p>
                     <p>Matrícula: 202302381189</p>
   </a>
   </div>
   <div class="col-md-3 text-center">
   <a href="https://github.com/MatheusRibeiro">
-  <img src="https://github.com/MatheusRibeir0/MatheusRibeir0/blob/main/foto.jpeg?raw=true" alt="Matheus Ribeiro" class="img-fluid rounded-circle">
+  <img src="https://github.com/MatheusRibeir0/MatheusRibeir0/blob/main/foto.jpeg?raw=true" width = 115 alt="Matheus Ribeiro" class="img-fluid rounded-circle">
   <p>Matheus Ribeiro</p>
   <p>Matrícula: 202303664206</p>
   </a>
