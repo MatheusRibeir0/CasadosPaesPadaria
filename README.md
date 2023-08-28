@@ -15,15 +15,11 @@
         </div>
 
   <div class="text-center mt-3">
-            <span class="badge badge-success">SEJA BEM VINDO AO NOSSO SITE, ESTAMOS EM DESENVOLVIMENTO <span class="emoji">😀</span>
+            <span class="badge badge-success">SEJA BEM VINDO AO NOSSO SITE, ESTAMOS EM DESENVOLVIMENTO 
 
   </span>
 
-  <style>
-    .emoji{
-      font-size: 14px;
-      }
-      </style>
+
 
   </div>
 
@@ -49,11 +45,7 @@
   <li>
     O cliente poderá realizar a compra via site, colocando os produtos em seu carrinho, preenchendo seus dados e realizando o pedido.
   </li>
-           
-  <!--<li>
-    O cliente poderá entrar em contato via whatsapp clicando no ícone do whatsapp lincado a aba ‘Informações’. 
-  </li>-->
-
+  
   <li>
     O cliente poderá solicitar orçamentos diferenciados preenchendo um cadastro na aba "<a href="#orcamentos">Orçamentos</a>". 
   </li>
@@ -68,18 +60,20 @@
   <h2 id="orcamentos">Orçamentos</h2>
   <p>Preencha o formulário para solicitar um orçamento.</p>
 
-  <form action="enviar.email.php" 
+  <form action="email.php" 
 
 
   <h2 class="mt-4">Autores</h2>
-        <div class="row justify-content-center">
-            <div class="col-md-3 text-center">
-                <a href="https://github.com/BeatrizBonetto">
-                    <img src="https://github.com/BeatrizBonetto/projeto_html_2023/assets/142846833/05745563-7d3e-47bb-b404-cb051aecb1d9" width = 115 alt="Beatriz Faccioli Bonetto" class="img-fluid rounded-circle">
-                    <p>Beatriz Faccioli Bonetto</p>
-                    <p>Matrícula: 202302381189</p>
+  
+  <div class="row justify-content-center">
+  <div class="col-md-3 text-center">
+  <a href="https://github.com/BeatrizBonetto">
+  <img src="https://github.com/BeatrizBonetto/projeto_html_2023/assets/142846833/05745563-7d3e-47bb-b404-cb051aecb1d9" width = 115 alt="Beatriz Faccioli Bonetto" class="img-fluid rounded-circle">
+  <p>Beatriz Faccioli Bonetto</p>
+  <p>Matrícula: 202302381189</p>      
   </a>
   </div>
+      
   <div class="col-md-3 text-center">
   <a href="https://github.com/MatheusRibeiro">
   <img src="https://github.com/MatheusRibeir0/MatheusRibeir0/blob/main/foto.jpeg?raw=true" width = 115 alt="Matheus Ribeiro" class="img-fluid rounded-circle">
